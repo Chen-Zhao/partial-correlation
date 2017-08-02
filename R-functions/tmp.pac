@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS azhkserver:azhkserversocks5@118.193.132.59:11080;";
+var wall_proxy = "HTTP azhkserver:azhkhts3@118.193.132.59:13128;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
